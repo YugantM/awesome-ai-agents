@@ -1273,6 +1273,9 @@ Here's an awesome list of AI agents:
 <p><a href="https://www.helicone.ai/">website</a> | <a href="https://github.com/Helicone/helicone">github</a></p>
 </div>
 
+### HVTracker
+<li><a href="https://hvtracker.net"><strong>HVTracker</strong></a> - 0 stars (Updated: 2026-05-27)<br>HVTracker is an open trust registry for open-source AI agents, scoring 171 agents across safety, transparency, adoption, and activity into a composite HVTrust score (0-100) with evidence grades (A-D). Open data under CC BY 4.0</li>
+
 ### Humane
 <div><a href="https://humane.com/"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
 
